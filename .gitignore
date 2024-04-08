@@ -1,0 +1,17 @@
+.venv/
+.next/
+node_modules/
+__pycache__/
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
